@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Dates you want commits for
-DATES=("2024-08-11" "2024-08-12" "2024-08-18" "2024-08-31" "2024-09-07")
+# Dates you want commits for (2025 instead of 2024)
+DATES=("2025-08-11" "2025-08-12" "2025-08-18" "2025-08-31" "2025-09-07")
 
 # Loop through each date
 for DATE in "${DATES[@]}"; do
